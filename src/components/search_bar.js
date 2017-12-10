@@ -30,7 +30,7 @@ class SearchBar extends Component {
   constructor(props) {
     super(props);
 
-    this.state = { term: 'Starting Value' }; //{ term: '' } is an object, this is the only time we manual state
+    this.state = { term: '' }; //{ term: '' } is an object, this is the only time we manual state
   }
 
   render() {
