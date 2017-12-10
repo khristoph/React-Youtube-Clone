@@ -1,6 +1,6 @@
-# Youtube Clone
+# React YouTube Clone
 
-A clone of Youtube that uses React and Youtube's API.
+A clone of YouTube that uses React and Youtube's API.
 
 
 ### Getting Started
